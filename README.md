@@ -4,7 +4,7 @@
 
 This repository contains the implementation of YOLOv8 for object detection using the Car Object Detection dataset. The project is built using PyTorch and Ultralytics.
 
-![Demo](path/to/demo/image.png)
+![Demo](images/sample_out.png)
 
 ## Table of Contents
 
