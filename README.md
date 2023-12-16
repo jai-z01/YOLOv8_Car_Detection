@@ -1,4 +1,4 @@
-# YOLOv8 Object Detection
+# YOLOv8 Car Object Detection
 
 ## Overview
 
